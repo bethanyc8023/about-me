@@ -6,3 +6,6 @@ i like to sing.
 i like to read.
 i like to sleep. 
 i like true crime.
+i want to learn guitar.
+i like vinyls.
+i have two dogs.
